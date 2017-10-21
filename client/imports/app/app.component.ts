@@ -5,7 +5,7 @@ import style from "./app.component.scss";
 @Component({
   selector: "app",
   template,
-  styles: [ style ]
+  styles: [style]
 })
 export class AppComponent {
   constructor() {
